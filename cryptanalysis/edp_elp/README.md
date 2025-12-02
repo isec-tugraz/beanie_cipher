@@ -1,6 +1,6 @@
 # ELP/EDP Experimental
 
-For a specific key and tweak pair encrypt all $2^32$ plaintexts.
+For a specific key and tweak pair encrypt all $2^{32}$ plaintexts.
 Then build DDT/LAT row for a fixed input/output.
 
 ## Instruction
@@ -30,4 +30,4 @@ options:
   -l, --linear
 ```
 
-In the [experiments/] folder we provide example outputs of the program
+In the [experiments](experiments) folder we provide example outputs of the program
