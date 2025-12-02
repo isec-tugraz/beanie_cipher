@@ -1,0 +1,9 @@
+[project]
+name = "beanie-monomial-prediction"
+version = "0.1.0"
+description = "Beanie Monomial Prediction"
+authors = [ ]
+requires-python = ">=3.12"
+dependencies = [
+  "minizinc",
+]

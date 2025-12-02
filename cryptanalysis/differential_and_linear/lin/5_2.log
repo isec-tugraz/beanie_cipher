@@ -1,0 +1,120 @@
+Left Branch: 5, Right Branch: 2, Iterations: 100
+Linear characteristic probability 2^-44
+Nr of Solutions: 35
+Probability distribution: {44: 2, 45: 2, 46: 9, 47: 22}
+Probability impact: {44: '-43.00', 45: '-44.00', 46: '-42.83', 47: '-42.54'}
+Linear probability 2^-41.00
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 35
+Probability distribution: {44: 2, 45: 2, 46: 8, 47: 23}
+Probability impact: {44: '-43.00', 45: '-44.00', 46: '-43.00', 47: '-42.48'}
+Linear probability 2^-41.02
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 28
+Probability distribution: {44: 1, 45: 1, 46: 7, 47: 19}
+Probability impact: {44: '-44.00', 45: '-45.00', 46: '-43.19', 47: '-42.75'}
+Linear probability 2^-41.51
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 32
+Probability distribution: {44: 2, 45: 2, 46: 8, 47: 20}
+Probability impact: {44: '-43.00', 45: '-44.00', 46: '-43.00', 47: '-42.68'}
+Linear probability 2^-41.09
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 28
+Probability distribution: {44: 1, 45: 1, 46: 7, 47: 19}
+Probability impact: {44: '-44.00', 45: '-45.00', 46: '-43.19', 47: '-42.75'}
+Linear probability 2^-41.51
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 58
+Probability distribution: {44: 2, 45: 2, 46: 14, 47: 40}
+Probability impact: {44: '-43.00', 45: '-44.00', 46: '-42.19', 47: '-41.68'}
+Linear probability 2^-40.48
+Input Mask:  [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 39
+Probability distribution: {44: 2, 46: 16, 47: 21}
+Probability impact: {44: '-43.00', 46: '-42.00', 47: '-42.61'}
+Linear probability 2^-40.89
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 64
+Probability distribution: {44: 2, 45: 2, 46: 18, 47: 42}
+Probability impact: {44: '-43.00', 45: '-44.00', 46: '-41.83', 47: '-41.61'}
+Linear probability 2^-40.33
+Input Mask:  [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 49
+Probability distribution: {44: 1, 45: 2, 46: 10, 47: 36}
+Probability impact: {44: '-44.00', 45: '-44.00', 46: '-42.68', 47: '-41.83'}
+Linear probability 2^-40.83
+Input Mask:  [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 50
+Probability distribution: {44: 1, 45: 2, 46: 10, 47: 37}
+Probability impact: {44: '-44.00', 45: '-44.00', 46: '-42.68', 47: '-41.79'}
+Linear probability 2^-40.81
+Input Mask:  [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 29
+Probability distribution: {44: 1, 45: 1, 46: 9, 47: 18}
+Probability impact: {44: '-44.00', 45: '-45.00', 46: '-42.83', 47: '-42.83'}
+Linear probability 2^-41.42
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-44
+Nr of Solutions: 43
+Probability distribution: {44: 2, 45: 2, 46: 12, 47: 27}
+Probability impact: {44: '-43.00', 45: '-44.00', 46: '-42.42', 47: '-42.25'}
+Linear probability 2^-40.77
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-45
+Nr of Solutions: 136
+Probability distribution: {45: 2, 46: 2, 47: 20, 48: 112}
+Probability impact: {45: '-44.00', 46: '-45.00', 47: '-42.68', 48: '-41.19'}
+Linear probability 2^-40.54
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-45
+Nr of Solutions: 112
+Probability distribution: {45: 2, 46: 2, 47: 18, 48: 90}
+Probability impact: {45: '-44.00', 46: '-45.00', 47: '-42.83', 48: '-41.51'}
+Linear probability 2^-40.77
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+Output Mask: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+
+Linear characteristic probability 2^-45
+Nr of Solutions: 195
+Probability distribution: {45: 4, 47: 34, 48: 157}
+Probability impact: {45: '-43.00', 47: '-41.91', 48: '-40.71'}
+Linear probability 2^-39.99
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]

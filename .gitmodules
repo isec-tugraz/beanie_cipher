@@ -1,0 +1,3 @@
+[submodule "hardware"]
+	path = reference_implementations/beanie_cipher
+	url = https://github.com/NXP-Research/beanie_cipher

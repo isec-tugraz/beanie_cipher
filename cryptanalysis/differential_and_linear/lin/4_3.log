@@ -1,0 +1,16 @@
+Left Branch: 4, Right Branch: 3, Iterations: 100
+Linear characteristic probability 2^-46
+Nr of Solutions: 328
+Probability distribution: {46: 16, 48: 264, 49: 48}
+Probability impact: {46: '-42.00', 48: '-39.96', 49: '-43.42'}
+Linear probability 2^-39.54
+Input Mask:  [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1]
+Output Mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Linear characteristic probability 2^-46
+Nr of Solutions: 370
+Probability distribution: {46: 8, 47: 16, 48: 112, 49: 234}
+Probability impact: {46: '-43.00', 47: '-43.00', 48: '-41.19', 49: '-41.13'}
+Linear probability 2^-39.81
+Input Mask:  [0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]

@@ -1,0 +1,16 @@
+Left Branch: 6, Right Branch: 0, Iterations: 100
+Differential characteristic probability 2^-45
+Nr of Solutions: 1876
+Probability distribution: {45: 1, 46: 2, 47: 1, 48: 5, 49: 43, 50: 138, 51: 410, 52: 1276}
+Probability impact: {45: '-45.00', 46: '-45.00', 47: '-47.00', 48: '-45.68', 49: '-43.57', 50: '-42.89', 51: '-42.32', 52: '-41.68'}
+Differential probability 2^-40.29
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+Output Mask: [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-45
+Nr of Solutions: 1633
+Probability distribution: {45: 1, 46: 1, 48: 7, 49: 20, 50: 94, 51: 311, 52: 1199}
+Probability impact: {45: '-45.00', 46: '-46.00', 48: '-45.19', 49: '-44.68', 50: '-43.45', 51: '-42.72', 52: '-41.77'}
+Differential probability 2^-40.62
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1]

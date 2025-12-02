@@ -1,0 +1,23 @@
+version = 1
+revision = 3
+requires-python = ">=3.12"
+
+[[package]]
+name = "beanie-monomial-prediction"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "minizinc" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "minizinc" }]
+
+[[package]]
+name = "minizinc"
+version = "0.10.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/dd/3c/f425820ca7d05f824563282998504719dfaef1022608808a6c36e44396f4/minizinc-0.10.0.tar.gz", hash = "sha256:ce1d3501ce45068a5cf419a71e5aa507e3a62a3088638ae96a200ec329f90a3a", size = 46929, upload-time = "2025-02-25T03:38:04.239Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d1/1d/d1dc3d250643defde3d71cd9d64911b057ec38b88bc1555ed55b6260fc4f/minizinc-0.10.0-py3-none-any.whl", hash = "sha256:8bd951866f8b246c4210b801bfc926e6bf7bc59a17f002b4c5fc49d9d9ec17e3", size = 44819, upload-time = "2025-02-25T03:38:02.035Z" },
+]

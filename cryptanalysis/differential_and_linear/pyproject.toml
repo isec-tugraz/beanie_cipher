@@ -1,0 +1,11 @@
+[project]
+name = "beanie-diff-lin"
+version = "0.1.0"
+description = "Beanie Differential/Linear Bounds"
+authors = [ ]
+requires-python = ">=3.12"
+dependencies = [
+  # "cysignals>=1.12.6",
+  "minizinc",
+  "sboxanalyzer"
+]

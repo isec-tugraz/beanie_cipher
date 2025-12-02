@@ -1,0 +1,13 @@
+[package]
+name = "diff_experiments"
+version = "0.1.0"
+edition = "2024"
+
+[profile.dev]
+opt-level = 2
+
+[dependencies]
+beanie-cipher = { version = "0.1.0", path = "../../reference_implementations/rust" }
+clap = { version = "4.5.46", features = ["derive"] }
+indicatif = "0.18.0"
+rand = "0.9.2"

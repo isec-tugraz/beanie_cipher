@@ -1,0 +1,218 @@
+Left Branch: 5, Right Branch: 2, Iterations: 100
+Differential characteristic probability 2^-47
+Nr of Solutions: 10
+Probability distribution: {47: 1, 49: 6, 50: 3}
+Probability impact: {47: '-47.00', 49: '-46.42', 50: '-48.42'}
+Differential probability 2^-45.48
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-47
+Nr of Solutions: 10
+Probability distribution: {47: 1, 49: 6, 50: 3}
+Probability impact: {47: '-47.00', 49: '-46.42', 50: '-48.42'}
+Differential probability 2^-45.48
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 9
+Probability distribution: {48: 1, 50: 6, 51: 2}
+Probability impact: {48: '-48.00', 50: '-47.42', 51: '-50.00'}
+Differential probability 2^-46.54
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 9
+Probability distribution: {48: 1, 50: 6, 51: 2}
+Probability impact: {48: '-48.00', 50: '-47.42', 51: '-50.00'}
+Differential probability 2^-46.54
+Input Mask:  [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 15
+Probability distribution: {48: 1, 50: 2, 51: 12}
+Probability impact: {48: '-48.00', 50: '-49.00', 51: '-47.42'}
+Differential probability 2^-46.42
+Input Mask:  [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 10
+Probability distribution: {48: 1, 50: 6, 51: 3}
+Probability impact: {48: '-48.00', 50: '-47.42', 51: '-49.42'}
+Differential probability 2^-46.48
+Input Mask:  [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 10
+Probability distribution: {48: 1, 50: 7, 51: 2}
+Probability impact: {48: '-48.00', 50: '-47.19', 51: '-50.00'}
+Differential probability 2^-46.42
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 9
+Probability distribution: {48: 1, 50: 2, 51: 6}
+Probability impact: {48: '-48.00', 50: '-49.00', 51: '-48.42'}
+Differential probability 2^-46.83
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 18
+Probability distribution: {48: 1, 50: 13, 51: 4}
+Probability impact: {48: '-48.00', 50: '-46.30', 51: '-49.00'}
+Differential probability 2^-45.75
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 5
+Probability distribution: {48: 1, 50: 2, 51: 2}
+Probability impact: {48: '-48.00', 50: '-49.00', 51: '-50.00'}
+Differential probability 2^-47.19
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 18
+Probability distribution: {48: 1, 50: 13, 51: 4}
+Probability impact: {48: '-48.00', 50: '-46.30', 51: '-49.00'}
+Differential probability 2^-45.75
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 9
+Probability distribution: {48: 1, 50: 6, 51: 2}
+Probability impact: {48: '-48.00', 50: '-47.42', 51: '-50.00'}
+Differential probability 2^-46.54
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 9
+Probability distribution: {48: 1, 50: 6, 51: 2}
+Probability impact: {48: '-48.00', 50: '-47.42', 51: '-50.00'}
+Differential probability 2^-46.54
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 15
+Probability distribution: {48: 1, 50: 2, 51: 12}
+Probability impact: {48: '-48.00', 50: '-49.00', 51: '-47.42'}
+Differential probability 2^-46.42
+Input Mask:  [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 41
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 17}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-46.91'}
+Differential probability 2^-44.40
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 41
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 17}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-46.91'}
+Differential probability 2^-44.40
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 19
+Probability distribution: {48: 1, 50: 13, 51: 5}
+Probability impact: {48: '-48.00', 50: '-46.30', 51: '-48.68'}
+Differential probability 2^-45.71
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 44
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 20}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-46.68'}
+Differential probability 2^-44.36
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+Output Mask: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 40
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 16}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-47.00'}
+Differential probability 2^-44.42
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+Output Mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 16
+Probability distribution: {48: 1, 50: 12, 51: 3}
+Probability impact: {48: '-48.00', 50: '-46.42', 51: '-49.42'}
+Differential probability 2^-45.87
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 48
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 24}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-46.42'}
+Differential probability 2^-44.30
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+Output Mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 8
+Probability distribution: {48: 1, 50: 2, 51: 5}
+Probability impact: {48: '-48.00', 50: '-49.00', 51: '-48.68'}
+Differential probability 2^-46.91
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 40
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 16}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-47.00'}
+Differential probability 2^-44.42
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+Output Mask: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 15
+Probability distribution: {48: 1, 50: 12, 51: 2}
+Probability impact: {48: '-48.00', 50: '-46.42', 51: '-50.00'}
+Differential probability 2^-45.91
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 44
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 20}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-46.68'}
+Differential probability 2^-44.36
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1]
+Output Mask: [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-48
+Nr of Solutions: 44
+Probability distribution: {48: 4, 49: 4, 50: 16, 51: 20}
+Probability impact: {48: '-46.00', 49: '-47.00', 50: '-46.00', 51: '-46.68'}
+Differential probability 2^-44.36
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+Output Mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]
+
+Differential characteristic probability 2^-49
+Nr of Solutions: 39
+Probability distribution: {49: 1, 51: 3, 52: 35}
+Probability impact: {49: '-49.00', 51: '-49.42', 52: '-46.87'}
+Differential probability 2^-46.39
+Input Mask:  [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Output Mask: [0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0]
+
+Differential characteristic probability 2^-49
