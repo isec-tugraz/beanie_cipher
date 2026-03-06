@@ -30,7 +30,7 @@ options:
 
 Example:
 
-`py active_sbox.py -p 0101 -m jean_inv -s G7  -l -e`
+`python3 active_sbox.py -p 0101 -m jean_inv -s G7  -l -e`
 
 # Clustering
 

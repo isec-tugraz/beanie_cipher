@@ -1,8 +1,8 @@
 from minizinc import Instance, Model, Solver
 import argparse
 
-from sage.all_cmdline import *
-# from sboxanalyzer import *
+from sage.all import *
+from sboxanalyzer import SboxAnalyzer
 from sage.crypto import sboxes
 
 F2 = GF(2)['x']; (x,) = F2._first_ngens(1)
