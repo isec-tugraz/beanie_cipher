@@ -1,4 +1,4 @@
-int: NR = 4; % the length of distinguisher (total number of rounds) - it is inteded to be > BP
+int: NR = 5; % the length of distinguisher (total number of rounds) - it is inteded to be > BP
 int: BP = 2; % the length of distinguisher (total number of rounds) - it is inteded to be > BP
 
 array[0..7] of int: round_permutation = array1d(0..7, [0, 1, 3, 2, 4, 5, 7, 6]); % round permutation
@@ -107,7 +107,7 @@ constraint forall(i in 0..7) (xu[BP-1, i] = xlr[NR-BP-1, i]);
 % Define objective
 var 0..NR*8: active_sbox;
 
-constraint active_sbox = sum(r in 0..BP, i in 0..7) (xu[r, i] + xl[r, i] == 2) + sum(r in 0..NR-BP-1, i in 0..7) (xur[r, i] + xlr[r, i] == 2);
+constraint active_sbox = sum(r in 0..BP-1, i in 0..7) (xu[r, i] + xl[r, i] == 2) + sum(r in 0..NR-BP-1, i in 0..7) (xur[r, i] + xlr[r, i] == 2);
 
 %constraint bits_to_guess < 80;
 

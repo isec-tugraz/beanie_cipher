@@ -5,8 +5,7 @@
 
 void init_prng() {
   unsigned int initial_seed = -1;
-  ssize_t temp;
-  temp = getrandom(&initial_seed, sizeof(initial_seed), 0);
+  getrandom(&initial_seed, sizeof(initial_seed), 0);
   srand(initial_seed);   // Initialization, should only be called once. int r = rand();
 }
 
