@@ -12,18 +12,19 @@ Uses minizinc and pyminizinc and sage
 - The Constraints for the S-Box and MixColumn get generated dynamically
 - To add S-Boxes or MixColumn matracies, add them to the begin of the python file
 ```
-usage: active_sbox.py [-h] [-r ROUNDS] [-b BREAK] [-s {PRESENT,SERPENT_S0,G7}]
-                      [-m {jean_inv}] [-p {0011,0101,0110,1001,1010,1100}] [-l] [-e]
+usage: active_sbox.py [-h] [-r ROUNDS] [-b BREAK] [-s {PRESENT,SERPENT_S0,G7}] [-m {jean_inv}]
+                      [-p {0011,0101,0110,1001,1010,1100}] [-c SOLVER] [-l] [-e]
 
 Find minimum number of active S-Box
 
 options:
   -h, --help            show this help message and exit
-  -r ROUNDS, --rounds ROUNDS
-  -b BREAK, --break BREAK
-  -s {PRESENT,SERPENT_S0,G7}, --sbox {PRESENT,SERPENT_S0,G7}
-  -m {jean_inv}, --mcol {jean_inv}
-  -p {0011,0101,0110,1001,1010,1100}, --permutation {0011,0101,0110,1001,1010,1100}
+  -r, --rounds ROUNDS
+  -b, --break BREAK
+  -s, --sbox {PRESENT,SERPENT_S0,G7}
+  -m, --mcol {jean_inv}
+  -p, --permutation {0011,0101,0110,1001,1010,1100}
+  -c, --solver SOLVER
   -l, --linear          Switch between differential and linear characteristics
   -e, --exact           If true then calculate exact probability, else count active S-Boxes
 ```

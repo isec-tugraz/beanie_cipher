@@ -4,6 +4,15 @@
 
 Since the MDS matrix model is quite heavy, the model takes quite a while to solve and it is therefore hard to find the best integral distinguishers.
 
+### Requirements
+
+#### Nix
+run `nix develop`
+
+#### Manual
+- Requires `python`, `uv`, `minizinc`, `pyminizinc`
+- Run `uv sync` and `source .venv/bin/activate`
+
 ### HW method
 
 Uses HW method proposed in "[Finding Bit-Based Division Property for Ciphers](https://eprint.iacr.org/2020/547)".

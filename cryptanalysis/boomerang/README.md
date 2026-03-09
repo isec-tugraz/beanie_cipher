@@ -22,8 +22,7 @@ Verify the probability of a boomerang distinguisher with a experimental testing
 
 ## Usage
 
-- Specify 
-```
+- Specify ```
 #define ALPHA_TRUNCATED 1
 #define LEFT 3
 #define RIGHT 2
@@ -31,8 +30,7 @@ Verify the probability of a boomerang distinguisher with a experimental testing
 #define BETA 0x0000000f
 
 #define ITERATIONS pow(2, 24)
-```
-in `boomerang_probability.c`
+``` in `boomerang_probability.c`
     - `ALPHA_TRUNCATED` specifies if ALPHA is a truncated difference i.e. all differences with where the zeroes adhere to `ALPHA` are valid
     - `LEFT` rounds in the left branch
     - `RIGHT` rounds in the right branch

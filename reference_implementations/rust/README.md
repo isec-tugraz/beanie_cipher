@@ -1,7 +1,8 @@
-# beanie reference implementation
+# beanie reference implementation (rust)
 
-- Use make file to compile c files
-- `testcases.c` can be used as a starting point for programs using the beanie implementation
+Use `cargo test` to run test cases
+
+Use as library as shown in `../../cryptanalysis/edp_elp/Cargo.toml`
 
 ## datapath
 
@@ -13,5 +14,5 @@
 
 `tweak_key_schedule` takes the main key, a tweak, and a round number and returns the corresponding encrypted tweak
 
-`key_expansion` takes the encrypted tweak and a number specifying the subkeys needed for the datapath and stores these subkeys in the array `round_keys`
+`key_expansion` takes the encrypted tweak and a number specifying the subkeys needed for the datapath and returns the round keys
 

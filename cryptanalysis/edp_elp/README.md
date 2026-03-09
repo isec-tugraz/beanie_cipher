@@ -5,10 +5,19 @@ Then build DDT/LAT row for a fixed input/output.
 
 ## Instruction
 
+Using `nix develop` the python library needed should be build and installed
+
+### Manual Setup
+
+Requires: rustc, cargo, uv, maturin
 - Build python library in rust
-    - Install maturin from pip
-    - Run `maturin build --release` in this folder
-    - Install python library `pip install target/wheels/beanie-0.1.0-cp38-abi3-manylinux_2_34_x86_64.whl`
+    - `uv sync`
+        - Should build and install python library `beanie`
+        - Uses beanie reference implementation from `../../reference_implementations/rust`
+    - `source .venv/bin/activate`
+        - Manual python library `pip install target/wheels/beanie-0.1.0-cp38-abi3-manylinux_2_34_x86_64.whl`
+
+### Run EDP/ELP Experiments
 - Run EDP/ELP search
     - Specify Rounds r (r encryptions + r decryptions)
     - Specify Mask m (also specifies input difference)

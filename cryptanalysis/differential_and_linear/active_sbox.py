@@ -112,7 +112,7 @@ solve minimize active_sboxes;
     #                 '''
     #                 )
 
-    solver = Solver.lookup("cp-sat")
+    solver = Solver.lookup(args['solver'])
     instance = Instance(solver, model)
 
     instance["NR"] = NR
@@ -136,6 +136,7 @@ if __name__ == "__main__":
     parser.add_argument('-s', '--sbox', action='store', choices=sbox_candidates.keys(), type=str)
     parser.add_argument('-m', '--mcol', action='store', choices=mcol_candidates.keys(), type=str)
     parser.add_argument('-p', '--permutation', action='store', choices=permutation_candidates.keys(), type=str)
+    parser.add_argument('-c', '--solver', default='cp-sat', action='store', type=str)
     parser.add_argument('-l', '--linear', default=False, action='store_true', help='Switch between differential and linear characteristics')
     parser.add_argument('-e', '--exact', default=False, action='store_true', help='If true then calculate exact probability, else count active S-Boxes')
     parameter = parser.parse_args()

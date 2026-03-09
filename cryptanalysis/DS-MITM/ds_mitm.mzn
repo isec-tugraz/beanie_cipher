@@ -107,7 +107,7 @@ constraint forall(i in 0..7) (xu[BP-1, i] = xlr[NR-BP-1, i]);
 % Define objective
 var 0..NR*32: bits_to_guess;
 
-constraint bits_to_guess = 4*sum(r in 0..BP, i in 0..7) (bool2int((xu[r, i] + xl[r, i]) = 2)) + 4*sum(r in 1..NR-BP-2, i in 0..7) (bool2int((xur[r, i] + xlr[r, i]) = 2));
+constraint bits_to_guess = 4*sum(r in 0..BP-1, i in 0..7) (bool2int((xu[r, i] + xl[r, i]) = 2)) + 4*sum(r in 1..NR-BP-2, i in 0..7) (bool2int((xur[r, i] + xlr[r, i]) = 2));
 
 %constraint bits_to_guess < 80;
 

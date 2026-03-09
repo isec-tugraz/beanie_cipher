@@ -34,6 +34,24 @@ Done by hand
 
 Sat model to find integral distinguisher via monomial prediction.
 
+## [Boomerang Cryptanalysis](cryptanalysis/boomerang/)
+
+Find best truncated difference with minimal number of active S-Boxes for the middle part of a sandwich boomerang distinguisher.
+Validate the probability of a distinguisher.
+
+## Reproducibility
+
+Using nix (https://nixos.org/download/) we aim to make the tools usable in the future.
+We provide a `flake.nix` and a `flake.lock` that specifies the dependencies under which the programs were tested.
+
+Use
+
+```nix develop```
+
+in the directories of the specifies tools/implementations to obtain all needed dependencies.
+The commands to run the tools are specified in the corresponding README.
+
+For the rust/python programs the .toml file should also provide some level of reproducibility when not using nix.
 
 ## Cite
 
