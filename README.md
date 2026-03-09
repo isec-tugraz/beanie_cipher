@@ -56,14 +56,18 @@ For the rust/python programs the .toml file should also provide some level of re
 ## Cite
 
 ```
-@article{beanie,
-  title={BEANIE--A 32-bit Cipher for Cryptographic Mitigations against Software Attacks},
-  author={Gerhalter, Simon and Hod{\v{z}}i{\'c}, Samir and Medwed, Marcel and Nageler, Marcel and Folwarczny, Artur and Nikov, Ventzi and Hoogerbrugge, Jan and Schneider, Tobias and McConville, Gary and Eichlseder, Maria},
-  journal={IACR Transactions on Symmetric Cryptology},
-  volume={2025},
-  number={4},
-  year={2025}
+@article{tosc/GerhalterHMNFNHSME25,
+  author       = {Simon Gerhalter and Samir Hodzic and Marcel Medwed and Marcel Nageler and Artur Folwarczny and Ventzislav Nikov and Jan Hoogerbrugge and Tobias Schneider and Gary McConville and Maria Eichlseder},
+  title        = {{BEANIE} -- {A} 32-bit Cipher for Cryptographic Mitigations Against Software Attacks},
+  journal      = {{IACR} Transactions on Symmetric Cryptology},
+  number       = {4},
+  volume       = {2025},
+  pages        = {31--69},
+  year         = {2025},
+  doi          = {10.46586/tosc.v2025.i4.31-69},
+  biburl       = {https://dblp.org/rec/journals/tosc/GerhalterHMNFNHSME25.bib},
 }
+
 ```
 
 ## Notes
