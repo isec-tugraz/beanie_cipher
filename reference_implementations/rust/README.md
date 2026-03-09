@@ -2,7 +2,7 @@
 
 Use `cargo test` to run test cases
 
-Use as library as shown in `../../cryptanalysis/edp_elp/Cargo.toml`
+Use as library as shown in [edp/elp](../../cryptanalysis/edp_elp/Cargo.toml)
 
 ## datapath
 
