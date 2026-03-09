@@ -1,5 +1,5 @@
 {
-  description = "Beanie Rust Reference Implementation";
+  description = "BEANIE C Reference Implementation";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
@@ -20,8 +20,8 @@
         {
           default = pkgs.mkShell {
             packages = [
-              # pkgs.cargo
-              # pkgs.rustc
+              pkgs.gnumake
+              pkgs.gcc
             ];
           };
         }

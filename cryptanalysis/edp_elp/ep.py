@@ -111,7 +111,7 @@ def elp_mask():
         json.dump(elp_experiments, f)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="EDP/ELP of Beanie")
+    parser = argparse.ArgumentParser(description="EDP/ELP of BEANIE")
     parser.add_argument('-t', '--threads', action='store', default=1, type=int)
     parser.add_argument('-r', '--rounds', action='store', default=4, type=int)
     parser.add_argument('-i', '--iterations', action='store', default=1, type=int)

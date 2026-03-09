@@ -1,5 +1,5 @@
 {
-  description = "Beanie Differential/Linear Bounds";
+  description = "BEANIE Differential/Linear Bounds";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

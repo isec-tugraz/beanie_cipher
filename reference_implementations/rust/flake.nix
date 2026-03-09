@@ -1,5 +1,5 @@
 {
-  description = "Beanie Rust Reference Implementation";
+  description = "BEANIE Rust Reference Implementation";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

@@ -27,7 +27,7 @@ Requires: rustc, cargo, uv, maturin
 ```
 usage: ep.py [-h] [-t THREADS] [-r ROUNDS] [-i ITERATIONS] [-m MASK] [-o OUTPUT_MASK] [-l]
 
-EDP/ELP of Beanie
+EDP/ELP of BEANIE
 
 options:
   -h, --help            show this help message and exit

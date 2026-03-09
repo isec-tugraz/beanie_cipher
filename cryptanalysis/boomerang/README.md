@@ -18,7 +18,7 @@ Verify the probability of a boomerang distinguisher with a experimental testing
 ## Requirements
 
 - c build tools
-- Beanie c reference implementation, provided in this repo
+- BEANIE c reference implementation, provided in this repo
 
 ## Usage
 

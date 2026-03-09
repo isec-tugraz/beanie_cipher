@@ -1,7 +1,7 @@
 [project]
 name = "beanie-diff-lin"
 version = "0.1.0"
-description = "Beanie Differential/Linear Bounds"
+description = "BEANIE Differential/Linear Bounds"
 authors = [ ]
 requires-python = ">=3.12"
 dependencies = [

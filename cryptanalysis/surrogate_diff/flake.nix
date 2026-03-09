@@ -1,5 +1,5 @@
 {
-  description = "Beanie Surrogate Differential";
+  description = "BEANIE Surrogate Differential";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

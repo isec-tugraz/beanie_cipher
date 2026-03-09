@@ -1,5 +1,5 @@
 {
-  description = "Beanie, DS-MitM";
+  description = "BEANIE, DS-MitM";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

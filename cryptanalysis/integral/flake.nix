@@ -1,5 +1,5 @@
 {
-  description = "Beanie Monomial Prediction";
+  description = "BEANIE Monomial Prediction";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

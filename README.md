@@ -1,4 +1,4 @@
-# Beanie Cipher
+# BEANIE Cipher
 
 A 32-bit Cipher for Cryptographic Mitigations against Software Attacks
 

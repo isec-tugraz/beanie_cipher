@@ -1,5 +1,5 @@
 {
-  description = "Beanie, Boomerang Deterministic Propagation";
+  description = "BEANIE Boomerang Deterministic Propagation";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
